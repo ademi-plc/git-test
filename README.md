@@ -1,2 +1,3 @@
-Hello git!
-Добавлены logs/ .env .tmp файлы в /gitignore
+## Hello git!
+
+Added `logs/`, `.env`, `.tmp` files to `.gitignore`.
